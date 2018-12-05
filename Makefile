@@ -1,4 +1,4 @@
-destdir=$(HOME)/.local/share/gnome-shell/extensions/uptime-indicator@gniourfgniourf.gmail.com
+destdir=$(HOME)/.local/share/gnome-shell/extensions/loadavg-indicator@spliff.splendor.gmail.com
 filestoinstall=AUTHORS COPYING extension.js metadata.json stylesheet.css
 
 all:
