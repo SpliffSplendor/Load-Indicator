@@ -14,6 +14,6 @@
    ],
    "uuid": "loadavg-indicator@spliff.splendor.gmail.com",
    "name": "Load Average Indicator",
-   "description": "Indicates load average in status area. When clicked, a popup menu indicates the date when the system was started.",
+   "description": "Indicates load average in status area. When clicked, a popup menu indicates the date when the current gnome-shell was started.",
    "url": "https://github.com/SpliffSplendor/Load-Indicator"
 }
